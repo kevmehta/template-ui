@@ -1,0 +1,8 @@
+{
+  "short_name": "Template UI",
+  "name": "Template UI",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
